@@ -8,7 +8,7 @@ SUB HEAD
 
 IMAGE 1 FILE
 
-`transit.jpg`
+`Where A Traditional Past Meets A Modern Future.
 
 IMAGE 1 ALT TEXT
 
